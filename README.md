@@ -1,7 +1,7 @@
 ### <div align="center">안녕하세요, 프론트엔드 개발을 좋아하는 김채현입니다. 👨‍💻</div>  
   
 
-- 🌱 Daejeon, Korea  
+- 🌱 Daejeon, Repulic of Korea  
   
 
 <br/>  
