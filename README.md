@@ -101,7 +101,7 @@ const chaehyeon = {
   <a href="mailto:chkim.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/chaehyeon119">
+  <a href="https://github.com/chdev-kr">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
@@ -194,5 +194,5 @@ const chaehyeon = {
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/chaehyeon119">김채현</a></sub>
+  <sub>Made with ❤️ by <a href="https://github.com/chdev-kr">김채현</a></sub>
 </div>
