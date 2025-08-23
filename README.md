@@ -12,8 +12,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaehyeon119&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaehyeon119&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chdev-kr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chdev-kr&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -188,7 +188,7 @@ const chaehyeon = {
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaehyeon119&style=flat-square&color=6366F1" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chdev-kr&style=flat-square&color=6366F1" alt="Profile Views" />
 </div>
 
 ---
